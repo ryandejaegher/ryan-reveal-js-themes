@@ -1,0 +1,4 @@
+/* This file can be used to override variables that are set in the selected reveal.js CSS file  */
+:root {
+  --r-background-color: blue;
+}
